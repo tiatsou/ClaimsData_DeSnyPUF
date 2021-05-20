@@ -19,7 +19,7 @@ Find relationship between outpatient medicare reimbursement and the beneficiarie
 3. create new numeric column *NumerOfClaims* by counting the number of outpatient claim from *Outpatient* data for each beneficiary ID in *Beneficiary* data
 4. use pivot table to find the summary statistics for the cleaned data
 
-![image](https://user-images.githubusercontent.com/83623711/119058192-e5b75980-b99b-11eb-8e02-821bd3ad2536.png)
+![image](https://user-images.githubusercontent.com/83623711/119059058-8f4b1a80-b99d-11eb-8725-3735e0eaf1cc.png)
 
 5. plot scatter plot to show the relationship between number of claims and annual medicare reimbursement amount 
    - based on the scatter plot, the more claims tend to have higher reimbursement amount

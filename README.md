@@ -1,5 +1,5 @@
 # ClaimsData_DeSnyPUF
-Analyzing outpatient claims data to find out the high utilizers and the economic impact.
+Using Power BI to analyze outpatient claims data to find out the high utilizers and the economic impact.
 
 ### Background
 Datasets used in this project are DE-SynPuf and are retrived from National Rural Health Resource Center. The Data Entrepreneurs’ Synthetic Public Use File (DE-SynPUF) is a set of realistic claims data from 2008 through 2010 made available by CMS(Centers for Medicare & Medicaid Services). And the project followed the tutorial mentioned in this [website](https://www.ruralcenter.org/population-health-toolkit/data/using-claims-data).
